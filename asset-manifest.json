@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/naima-shk/tic-tac-toe-game/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/naima-shk/tic-tac-toe-game/static/js/main.c50eeeba.chunk.js",
+    "main.js.map": "/naima-shk/tic-tac-toe-game/static/js/main.c50eeeba.chunk.js.map",
+    "runtime-main.js": "/naima-shk/tic-tac-toe-game/static/js/runtime-main.2225bee3.js",
+    "runtime-main.js.map": "/naima-shk/tic-tac-toe-game/static/js/runtime-main.2225bee3.js.map",
+    "static/js/2.52c62fc2.chunk.js": "/naima-shk/tic-tac-toe-game/static/js/2.52c62fc2.chunk.js",
+    "static/js/2.52c62fc2.chunk.js.map": "/naima-shk/tic-tac-toe-game/static/js/2.52c62fc2.chunk.js.map",
+    "static/js/3.36a6b0cb.chunk.js": "/naima-shk/tic-tac-toe-game/static/js/3.36a6b0cb.chunk.js",
+    "static/js/3.36a6b0cb.chunk.js.map": "/naima-shk/tic-tac-toe-game/static/js/3.36a6b0cb.chunk.js.map",
+    "index.html": "/naima-shk/tic-tac-toe-game/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/naima-shk/tic-tac-toe-game/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.52c62fc2.chunk.js.LICENSE.txt": "/naima-shk/tic-tac-toe-game/static/js/2.52c62fc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2225bee3.js",
+    "static/js/2.52c62fc2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c50eeeba.chunk.js"
+  ]
+}
