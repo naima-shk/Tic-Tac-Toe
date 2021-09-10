@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
-import { calculateWinner } from '../helpers';
 import Board from './Board';
+import { calculateWinner } from './Helpers';
 
 const styles={
     width: '200px',
@@ -33,7 +33,7 @@ const Game=()=> {
     }
    const renderMoves=()=> (
        history.map((__step,move)=>{
-           const destination =move ? `Go to move${move}` : 'Go to start';
+           const destination = move ? `Go to move${move}` : 'Go to start';
            return(
                <li key={move}>
                    <button onClick={()=> jumpTo(move)}>{destination}</button>
@@ -48,7 +48,7 @@ const Game=()=> {
         <>
         <Board  squares={history[stepNumber]} onClick={handleClick} />
        <div style={styles}>
-           <p>{winner ? 'winner:' + winner :'Next Player:' +(xIsNext ?'x': '0')}</p>
+       <p>{winner ? 'Winner: ' + winner :'Next Player: ' +(xIsNext ? 'x' : '0')}</p>
            {renderMoves()}
        </div>
         </>
