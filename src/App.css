@@ -1,0 +1,17 @@
+body{
+    background-color: lightsteelblue;
+    font-family:'Roboto';
+  }
+  button{
+    padding:7px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: lightskyblue;
+    box-shadow: 2px 2px white;
+    color:black;
+    border:2px solid purple;
+    
+  }
+  li{
+    list-style: none;
+  }
